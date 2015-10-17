@@ -1,16 +1,23 @@
 {
 	"installed_packages":
 	[
+		"AlignTab",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"AutoFileName",
 		"Autoprefixer",
-		"Base16 Color Schemes",
-		"CSS Snippets",
-		"Dayle Rees Color Schemes",
+		"Bootstrap 3 Snippets",
+		"BracketGuard",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"Diffy",
+		"Emmet",
 		"GitGutter",
-		"HTML Snippets",
-		"Sass",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"sublimelint",
+		"LESS",
+		"Less2Css",
+		"Monokai Extended",
+		"Package Control",
 		"Theme - Soda"
 	]
 }
