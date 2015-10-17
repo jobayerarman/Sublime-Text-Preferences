@@ -2,6 +2,10 @@
 
 _All settings are the **User** version, as the **Default** version gets overridden when updating._
 
+-__Keyboard Shortcuts: [Default (Windows).sublime-keymap][1]__
+-
+-* Keyboard shortcut to reindent-
+
 __Package Control Settings: [Package Control.sublime-settings][3]__
 
 * A list of the packages installed through [Package Control](http://wbond.net/sublime_packages/package_control)
