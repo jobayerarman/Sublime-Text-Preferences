@@ -4,7 +4,7 @@ _All settings are the **User** version, as the **Default** version gets overridd
 
 __Keyboard Shortcuts: [Default (Windows).sublime-keymap][1]__
 
--* Keyboard shortcut to reindent-
+* Keyboard shortcut to reindent
 
 __Package Control Settings: [Package Control.sublime-settings][3]__
 
