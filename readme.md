@@ -2,8 +2,8 @@
 
 _All settings are the **User** version, as the **Default** version gets overridden when updating._
 
--__Keyboard Shortcuts: [Default (Windows).sublime-keymap][1]__
--
+__Keyboard Shortcuts: [Default (Windows).sublime-keymap][1]__
+
 -* Keyboard shortcut to reindent-
 
 __Package Control Settings: [Package Control.sublime-settings][3]__
@@ -18,7 +18,7 @@ __Project Template: [example.sublime-project][5]__
 
 * An example of a project setup, inluding what to ignore
 
-[1]: https://github.com/joshnh/Sublime-Text-Preferences/blob/master/Default%20(OSX).sublime-keymap
+[1]: https://github.com/joshnh/Sublime-Text-Preferences/blob/master/Default%20(Windows).sublime-keymap
 [2]: https://github.com/joshnh/Sublime-Text-Preferences/blob/master/Fetch.sublime-settings
 [3]: https://github.com/joshnh/Sublime-Text-Preferences/blob/master/Package%20Control.sublime-settings
 [4]: https://github.com/joshnh/Sublime-Text-Preferences/blob/master/Preferences.sublime-settings
