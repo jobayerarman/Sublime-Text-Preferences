@@ -2,7 +2,6 @@
 	"installed_packages":
 	[
 		"AlignTab",
-		"All Autocomplete",
 		"ApacheConf.tmLanguage",
 		"ApplySyntax",
 		"AutoFileName",
@@ -11,13 +10,17 @@
 		"BracketGuard",
 		"BracketHighlighter",
 		"Comment-Snippets",
+		"CSScomb",
 		"Diffy",
 		"Emmet",
 		"GitGutter",
+		"jQuery",
 		"LESS",
 		"Less2Css",
 		"Monokai Extended",
 		"Package Control",
+		"Sass",
+		"Syntax Highlighting for Sass",
 		"Theme - Soda"
 	]
 }
