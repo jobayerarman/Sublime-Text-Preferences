@@ -18,16 +18,18 @@
 	"auto_complete_with_fields": true,
 
 	// Sets the colors used within the text area
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+
+	"default_line_ending": "unix",
 
 	// Set to true to ensure the last line of the file ends in a newline
 	// character when saving
 	"ensure_newline_at_eof_on_save": true,
-	
+
 	// folder_exclude_patterns and file_exclude_patterns control which files
 	// are listed in folders on the side bar. These can also be set on a per-
 	// project basis.
-  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules", ".sass-cache"],
+  	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules", ".sass-cache"],
 
 	// Makes tabs with modified files more visible
 	"highlight_modified_tabs": true,
@@ -54,19 +56,17 @@
 	// dock icon, this controls if a new window is created or not.
 	"open_files_in_new_window": false,
 
-	"soda_folder_icons": true,
-
 	// The number of spaces a tab is considered equal to
 	"tab_size": 4,
 
 	// The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Seti_orig.sublime-theme",
+
+	// Set to true to insert spaces when tab is pressed
+	"translate_tabs_to_spaces": true,
 
 	// Set to true to removing trailing white space on save
 	"trim_trailing_white_space_on_save": true,
-	
-	// Set to true to insert spaces when tab is pressed
-	"translate_tabs_to_spaces": true,
 
 	// If translate_tabs_to_spaces is true, use_tab_stops will make tab and
 	// backspace insert/delete up to the next tabstop

@@ -1,33 +1,27 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"AlignTab",
 		"ApacheConf.tmLanguage",
-		"ApplySyntax",
-		"AutoFileName",
-		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketGuard",
 		"BracketHighlighter",
-		"Color Highlighter",
-		"Comment-Snippets",
-		"CSScomb",
-		"Diffy",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
-		"Icon Fonts",
-		"jQuery",
 		"LESS",
-		"Monokai Extended",
-		"Nunjucks Syntax",
+		"Material Theme",
 		"Package Control",
-		"PhpTidy",
 		"Sass",
+		"Seti_UI",
+		"Seti_UX",
 		"Syntax Highlighting for Sass",
-		"Theme - Soda",
+		"Theme - Seti Monokai",
 		"WordPress Completions"
 	]
 }
