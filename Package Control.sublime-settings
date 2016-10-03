@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"AlignTab",
 		"ApacheConf.tmLanguage",
 		"ApplySyntax",
@@ -9,18 +10,24 @@
 		"Bootstrap 3 Snippets",
 		"BracketGuard",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"Comment-Snippets",
 		"CSScomb",
 		"Diffy",
+		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"GitGutter",
+		"Icon Fonts",
 		"jQuery",
 		"LESS",
-		"Less2Css",
 		"Monokai Extended",
+		"Nunjucks Syntax",
 		"Package Control",
+		"PhpTidy",
 		"Sass",
 		"Syntax Highlighting for Sass",
-		"Theme - Soda"
+		"Theme - Soda",
+		"WordPress Completions"
 	]
 }
