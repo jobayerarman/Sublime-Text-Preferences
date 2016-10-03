@@ -17,9 +17,15 @@
 	// Only relevant if auto_complete_commit_on_tab is true.
 	"auto_complete_with_fields": true,
 
+	// Valid values are "smooth", "phase", "blink" and "solid".
+	"caret_style": "phase",
+
 	// Sets the colors used within the text area
 	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
 
+	// Determines what character(s) are used to terminate each line in new files.
+    // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and
+    // 'unix' (LF only).
 	"default_line_ending": "unix",
 
 	// Set to true to ensure the last line of the file ends in a newline
@@ -30,6 +36,15 @@
 	// are listed in folders on the side bar. These can also be set on a per-
 	// project basis.
   	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules", ".sass-cache"],
+
+  	// Note that the font_face and font_size are overridden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
+    "font_face": "Consolas",
+
+    // If enabled, will highlight any line with a caret
+    "highlight_line": true,
 
 	// Makes tabs with modified files more visible
 	"highlight_modified_tabs": true,
@@ -52,15 +67,27 @@
 	// Spacing between the gutter and the text
 	"margin": -1,
 
+	// Material theme settings
+	"material_theme_accent_cyan": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_fileicon": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+
 	// When files are opened from finder, or by dragging onto the
 	// dock icon, this controls if a new window is created or not.
 	"open_files_in_new_window": false,
 
-	// The number of spaces a tab is considered equal to
-	"tab_size": 4,
+	// Display file encoding in the status bar
+    "show_encoding": true,
+
+    // Display line endings in the status bar
+    "show_line_endings": true,
 
 	// The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)
-	"theme": "Seti_orig.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 
 	// Set to true to insert spaces when tab is pressed
 	"translate_tabs_to_spaces": true,
